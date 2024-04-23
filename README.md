@@ -1,1 +1,11 @@
 # AIML_BATCH_15
+#[https://github.com/shruthireddy042/AIML_BATCH_15/blob/main/Assignment1.ipynb]
+#[https://github.com/shruthireddy042/AIML_BATCH_15/blob/main/Assignment2.ipynb]
+#[https://github.com/shruthireddy042/AIML_BATCH_15/blob/main/Assignment3ipynb.ipynb]
+#[https://github.com/shruthireddy042/AIML_BATCH_15/blob/main/Assignment4.ipynb]
+#[https://github.com/shruthireddy042/AIML_BATCH_15/blob/main/Assignment5.ipynb]
+#[https://github.com/shruthireddy042/AIML_BATCH_15/blob/main/Assignment6.ipynb]
+#[https://github.com/shruthireddy042/AIML_BATCH_15/blob/main/Assignment7.ipynb]
+#{https://github.com/shruthireddy042/AIML_BATCH_15/blob/main/Assignment8.ipynb]
+#[https://github.com/shruthireddy042/AIML_BATCH_15/blob/main/Assignment9.ipynb]
+#[https://github.com/shruthireddy042/AIML_BATCH_15/blob/main/Assignment10.ipynb]
